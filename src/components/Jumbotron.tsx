@@ -11,7 +11,7 @@ const Jumbotron = () => {
           <div className="flex items-center">
             <div className="motion-preset-slide-right motion-duration-2000 space-y-4">
               <p className={`${poppins.className} font-semibold`}>
-                Hey, I am John
+                Hey, I am Daniel
               </p>
 
               <p className="text-4xl font-semibold md:text-5xl">
